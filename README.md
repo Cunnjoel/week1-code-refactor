@@ -4,4 +4,4 @@ Edited reactor code to increase accessibility. Took existing html and css code a
 
 https://cunnjoel.github.io/week1-code-refactor-homework/
 
-<img scr="./assets/images/screenshot.png" alt="screenshot">
+<img scr="./assets/images/screenshot.png" alt="screenshot"></img>
